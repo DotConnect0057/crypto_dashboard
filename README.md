@@ -1,4 +1,4 @@
-![Crypto Dashboard](http://)
+![Crypto Dashboard](https://github.com/DotConnect0057/crypto_dashboard/blob/main/public/thumbnail.png)
 Youtube Video [Crypto Trading Dashboard for Backtesting](https://www.youtube.com/watch?v=WFhSbc1LcoI)
 
 ## Getting Started
